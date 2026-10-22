@@ -6,3 +6,9 @@ node_modules/
 Thumbs.db
 
 data/
+
+# Local runtime, browser downloads and GitHub authentication
+.tools/
+.local/
+# Personal resume files (tracked upstream examples remain tracked)
+resume/personal/
